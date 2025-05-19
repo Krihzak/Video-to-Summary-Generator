@@ -1,0 +1,10 @@
+streamlit
+openai
+torch
+transformers
+moviepy
+whisper
+pytube
+Pillow
+tqdm
+opencv-python
